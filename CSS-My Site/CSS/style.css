@@ -1,0 +1,37 @@
+body{
+    margin:0;  
+    text-align:center;
+    font-family:Verdana;
+     
+}
+h1{
+    width:8%;
+    margin:0 auto 0 auto;
+
+}
+.top-cloud{
+    position:absolute;
+    top:50px;
+    right:300px
+}
+.bottom-cloud
+{
+    position:absolute;
+    left:300px;
+    bottom:300px;
+}
+.topcontainer{
+    background-color:#caf7e3;
+    position:relative;
+    padding-top:100px;
+
+    
+}
+.middlecontainer
+{
+   
+}
+.bottomcontainer
+{
+   
+}

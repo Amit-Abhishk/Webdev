@@ -1,12 +1,13 @@
 body{
     margin:0;  
     text-align:center;
-    font-family:Verdana;
+    font-family: 'Merriweather', serif;
+    font-size:25px;
      
 }
 h1{
-    width:8%;
     margin:0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
 
 }
 .top-cloud{
@@ -23,15 +24,45 @@ h1{
 .topcontainer{
     background-color:#caf7e3;
     position:relative;
-    padding-top:100px;
+    padding-top:100px; 
+}
+.middle-container
+{
+   background-color:burlywood;
 
-    
 }
-.middlecontainer
-{
-   
+.skills{
+    background-color:chartreuse;
+    margin:0 0;
 }
-.bottomcontainer
+.contact-me
 {
-   
+    background-color:crimson;
+    margin:0 0;
+}
+
+.profile-pic{
+    width:20%;
+    height:20%;
+}
+.design{
+    width:10%;
+    height:10%;
+}
+.python{
+    width:10%;
+    height:10%;
+}
+.C
+{
+    width:10%;
+    height:10%;
+    border-radius:50%;
+}
+img:hover{
+    background-color:darkgray;
+}
+.bottom-container
+{
+   background-color: beige;
 }

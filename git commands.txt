@@ -1,0 +1,5 @@
+gitinit
+git add .
+git commit -m "message"
+git add remote origin "url"
+git push origin master

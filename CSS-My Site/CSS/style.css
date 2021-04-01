@@ -6,9 +6,22 @@ body{
      
 }
 h1{
-    margin:0 auto 0 auto;
+    font-size: 5.625rem;
+    margin :50px auto 0 auto;
     font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    
 
+}
+h2{
+    font-size:2.5rem;
+}
+.work
+{
+    margin:0 auto 0 auto;
+ font-size:3rem;
+ color: #66BFBF;
+ font-weight:normal;
 }
 .top-cloud{
     position:absolute;
@@ -46,18 +59,19 @@ h1{
     height:20%;
 }
 .design{
-    width:10%;
-    height:10%;
+    width:25%;
+    float:left;
+    margin-right:30px;
 }
 .python{
-    width:10%;
-    height:10%;
+    width:25%;
+    float:right;
 }
 .C
 {
-    width:10%;
-    height:10%;
+    width:25%;
     border-radius:50%;
+    float:right;
 }
 img:hover{
     background-color:darkgray;
@@ -65,4 +79,12 @@ img:hover{
 .bottom-container
 {
    background-color: beige;
+}
+a{
+    color: #11999E;
+}
+.skill-row{
+    margin:100px auto 100px auto;
+    width:50%;
+    text-align: left;
 }
